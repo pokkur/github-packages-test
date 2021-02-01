@@ -1,0 +1,18 @@
+{
+  "name": "@pokkur/github-packages-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pokkur",
+  "license": "UNLISENCED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pokkur/github-packages-test.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
